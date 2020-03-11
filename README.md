@@ -6,3 +6,6 @@ Steps:
 3. Separate MCS data into training and validation sets.
 3. Train DL, ML models using the training set.
 4. Compare with the results with MCS and check if the model accuracy is closer to MCS accuracy.
+
+
+For details, check the BTP Presentation file.
