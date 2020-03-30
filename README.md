@@ -8,4 +8,4 @@ Steps:
 4. Compare with the results with MCS and check if the model accuracy is closer to MCS accuracy.
 
 
-For details, check the BTP Presentation file.
+For details, check the [BTP Presentation](https://github.com/adsk2050/btp-iitg/blob/master/BTP%20Presentation.pdf) file.
